@@ -15,7 +15,7 @@ Responsible, motivated novice programmer. I found my path and I know that progra
 
 - 📄 My projects:
   - https://github.com/robert-adamczyk/Sudoku_-_solve_by_various_algorithms
-  - https://github.com/robert-adamczyk/zdpytpol45
+  - https://github.com/zdpytpol45-project3/Weather_portal
   - https://github.com/robert-adamczyk/Turbine-power-Web
   - https://github.com/robert-adamczyk/Collection
 
