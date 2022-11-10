@@ -14,11 +14,12 @@ Responsible, motivated novice programmer. I found my path and I know that progra
 
 
 - 📄 My projects:
-  - https://github.com/robert-adamczyk/Sudoku_-_solve_by_various_algorithms
   - https://github.com/zdpytpol45-project3/Weather_portal
-  - https://github.com/robert-adamczyk/Turbine-power-Web
+  - https://github.com/robert-adamczyk/Wind-turbine-power
   - https://github.com/robert-adamczyk/Collection
-
+  - https://github.com/robert-adamczyk/Calculator
+  - https://github.com/robert-adamczyk/Sudoku_-_solve_by_various_algorithms
+  - https://github.com/robert-adamczyk/Turbine-power-Web
 
 1. As a final project on the software academy developer programming course, together with my group, we were tasked with creating a simple weather application using the django framework. [Link to GitHub for more details and code](https://github.com/zdpytpol45-project3/Weather_portal)
 
