@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Robert Adamczyk</h1>
-<h3 align="center">A passionate backend developer and data analysis from Poland</h3>
+<h3 align="center">A passionate python developer from Poland</h3>
 <h5 align="center">About me </h5>
 
 Responsible, motivated novice programmer. I found my path and I know that programming is something where I can fulfill myself. My strength is the analysis and decomposition of a given task into prime factors, which is useful when analyzing new lines of code. Studies have taught me to work with data and draw conclusions based on it, which I personally like to do very much. Solving problems gives me satisfaction, and from the problems encountered and my own mistakes made I draw conclusions and treat it as the best lesson for self-improvement.
